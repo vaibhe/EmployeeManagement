@@ -1,0 +1,15 @@
+# Ignore log files
+*.log
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore build outputs
+build/
+dist/
+
+# Ignore environment variables
+.env
+
+# Ignore specific files
+secret.txt
